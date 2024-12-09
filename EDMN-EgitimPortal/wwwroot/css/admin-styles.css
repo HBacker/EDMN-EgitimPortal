@@ -1,0 +1,6 @@
+﻿.btn-danger, .btn-info, .btn-warning, .btn-success {
+    width: 100px;
+    border-radius: 5px;
+    border-style: solid;
+    color: white;
+}
