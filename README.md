@@ -10,13 +10,13 @@
 ## Build
 
 **Clone the repository:**
-git clone https://github.com/HBackeR/EDMN-EgitimPortal.git
-cd <Path>
+`git clone https://github.com/HBackeR/EDMN-EgitimPortal.git` then
+`cd <Project_Path>`
 
 **Restore dependencies:**
-3. dotnet restore
+`dotnet restore`
 
 **Create the database and apply migrations:**
-dotnet ef database update
+`dotnet ef database update`
 
 
